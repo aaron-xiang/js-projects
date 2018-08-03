@@ -41,7 +41,7 @@ function sortList() {
 
 function sort(list) {
     for (let i = 0; i < list.length; i++) {
-        const minIndex = findMinIndex(list, i);
+        const minIndex = findMinIndex(list,  i);
         swap(list, i, minIndex);
     }
 }
