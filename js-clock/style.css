@@ -1,0 +1,7 @@
+div#clock {
+ font-size: 200%;
+ border: 1px solid black; 
+ width: 150px;
+ margin: 50px auto 50px auto;
+ padding: 20px;   
+}
