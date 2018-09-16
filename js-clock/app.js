@@ -1,4 +1,5 @@
-const clockElement = document.getElementById('clock');
+// const clockElement = document.getElementById('clock');
+const clockElement = document.querySelector('div#clock');
 
 function getCurrentTime() {
     const d = new Date();
